@@ -17,3 +17,5 @@ TP2_PART2/bin/
 TP2_PART2/.project
 TP2_PART2/.settings/
 TP2_PART2/.classpath
+
+.gitignore
