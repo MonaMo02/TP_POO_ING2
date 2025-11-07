@@ -18,4 +18,13 @@ TP2_PART2/.project
 TP2_PART2/.settings/
 TP2_PART2/.classpath
 
-.gitignore
+
+TP3_POO/src/bank/
+TP3_POO/src/exo1_encapsulation
+TP3_POO/src/message
+TP3_POO/bin/
+TP3_POO/.project
+TP3_POO/.settings/
+TP3_POO/.classpath
+TP3_POO/src/module-info.java
+
