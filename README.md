@@ -1,3 +1,5 @@
+**Total: January 5th 2026**
+
 ### Project Grading(15 points)
 
 | **Criteria**                 | **Description**                                               | **Points** |
