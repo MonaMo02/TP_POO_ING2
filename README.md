@@ -1,5 +1,3 @@
-**Total: January 5th 2026**
-
 ### Project Grading(15 points)
 
 | **Criteria**                 | **Description**                                               | **Points** |
@@ -14,3 +12,5 @@
 | **Code Quality**             | Clean structure, readability, indentation, naming, comments   | 1 pts      |
 
 **Total: 15 points**
+
+**Due date: January 5th 2026**
