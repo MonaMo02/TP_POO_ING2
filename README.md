@@ -8,7 +8,7 @@
 | **Use of Collections**       | Correct use of Lists to store and manage objects              | 3 pts      |
 | **Add Operation**            | Application can add new objects to the collection             | 1 pt       |
 | **Display Operation**        | Application can display stored objects                        | 1 pt       |
-| **Feature Extension**        | Extra functionality (search, statistics, filtering…)          | 1 pt       |
+| **Feature Extension**        | Extra functionality (search, statistics, filtering…)          | 2 pt       |
 | **Code Quality**             | Clean structure, readability, indentation, naming, comments   | 1 pts      |
 
 **Total: 15 points**
